@@ -1,0 +1,4 @@
+[Thu, 30 Jun 2016 13:41:22 +0700] [127.0.0.1] [Notice(8): Undefined index: imagecontent] [FILE: /themes/batdongsan/blocks/global.image.php] [LINE: 19]
+[Thu, 30 Jun 2016 13:41:56 +0700] [127.0.0.1] [Notice(8): Undefined variable: imageLink] [FILE: /themes/batdongsan/blocks/global.image.php] [LINE: 69]
+[Thu, 30 Jun 2016 13:41:56 +0700] [127.0.0.1] [Notice(8): Undefined offset: 5] [FILE: /themes/batdongsan/blocks/global.image.php] [LINE: 71]
+[Thu, 30 Jun 2016 13:41:56 +0700] [127.0.0.1] [Notice(8): Undefined offset: 5] [FILE: /themes/batdongsan/blocks/global.image.php] [LINE: 72]
